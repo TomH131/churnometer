@@ -1,25 +1,3 @@
-## How to use this repo
-
-1. Fork this repo and copy the https URL of your forked churnometer repo
-
-1. Log into the cloud IDE with your GitHub account.
-
-1. On your Dashboard, click on the New Workspace button
-
-1. Paste in the URL you copied from GitHub earlier
-
-1. Click Create
-
-1. Wait for the workspace to open. This can take a few minutes.
-
-1. Open a new terminal and `pip3 install -r requirements.txt`
-
-1. Click the kernel button and choose Python Environments.
-
-1. Choose the kernel Python 3.12.2 as it inherits from the workspace, so it will be Python-3.12.2 as installed by our template. To confirm this, you can use `! python --version` in a notebook code cell.
-
-Your workspace is now ready to use. When you want to return to this project, you can find it in your Cloud IDE Dashboard. You should only create 1 workspace per project.
-
 ## Dataset Content
 
 The dataset is sourced from [Kaggle](https://www.kaggle.com/codeinstitute/telecom-churn-dataset). We created then a fictitious user story where predictive analytics can be applied in a real project in the workplace.
